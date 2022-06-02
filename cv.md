@@ -18,11 +18,10 @@ I am a hardworking and ambitious person , who wants to change his life.I was par
 ## Education
 
 * **International Institute of Labor and Social Relations** 
-+ IT
 * CodeBasics
-+ HTML
-+ CSS
-+ JS
+     + HTML
+     + CSS
+     + JS
 
 ## Languages
 
